@@ -14,7 +14,7 @@ Check out the live version of the project here: [WebStudio Landing Page](https:/
 
 ## Technologies Used
 - HTML
-- 
+
 ## How to Use
 1. Clone the repository:
    ```bash
